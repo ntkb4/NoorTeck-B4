@@ -10,6 +10,9 @@ public class BranchDemo {
 		System.out.println("We are working on Development Branch.");
 		
 		System.out.println("HIIIIII");
+
+		System.out.println("Just a Stash and Pull");
+
 	}
 
 }
